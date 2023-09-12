@@ -1,0 +1,11 @@
+EmployeeID,EmployeeName ,Department,EmploymentStatus,DateOfJoining(DD/MM/YYYY),DateOfLeaving(DD/MM/YYYY)
+r0001,Akshay Singh,HR,Active,01/01/2022,
+r0002,Dhruv Gupta,Finance,Active,05/02/2022,
+r0003,Abhay Singhal,Sales and Marketing,Active,10/02/2023,
+r0004,Satya Sai,Engineering,Inactive,08/01/2022,31/01/2023
+r0005,Krinana Murthy,Engineering,Active,18/10/2022,
+r0006,Muthu Selvam,Engineering,Active,01/09/2022,
+r0007,Abhijeet Agrawal,Engineering,Active,01/04/2022,
+r0008,Rajat Mandal,Sales and Marketing,Active,01/03/2022,
+r0009,Kirthi Reddy,Engineering,Active,05/01/2023,
+r0010,Vyom Kumar,Business development,Active,06/10/2022,
